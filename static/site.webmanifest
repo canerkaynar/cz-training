@@ -1,0 +1,14 @@
+{
+    "name": "Caner Kaynar",
+    "short_name": "Caner Kaynar",
+    "icons": [
+        {
+            "src": "",
+            "sizes": "",
+            "type": "image/png"
+        }
+    ],
+    "theme_color": "#ffffff",
+    "background_color": "#ffffff",
+    "display": "standalone"
+}

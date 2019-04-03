@@ -1,0 +1,30 @@
+{
+  "name": "canerkaynar",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "next dev",
+    "build": "next build"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "",
+  "dependencies": {
+    "@emotion/core": "^10.0.5",
+    "classnames": "^2.2.6",
+    "core-decorators": "^0.20.0",
+    "next": "^7.0.2-canary.49",
+    "prop-types": "^15.7.2",
+    "react": "16.7.0-alpha.2",
+    "react-div-100vh": "^0.3.2",
+    "react-dom": "16.7.0-alpha.2",
+    "react-redux": "^6.0.1",
+    "redux": "^4.0.1",
+    "redux-devtools-extension": "^2.13.8",
+    "redux-thunk": "^2.3.0",
+    "styled-components": "^4.2.0",
+    "webfontloader": "^1.6.28"
+  }
+}
