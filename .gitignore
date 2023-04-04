@@ -47,3 +47,4 @@ Temporary Items
 .history
 
 # End of https://www.gitignore.io/api/nodejs,visualstudiocode,macos
+.vercel
